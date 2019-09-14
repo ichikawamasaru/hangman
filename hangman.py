@@ -43,4 +43,4 @@ def hangman(word):
     
         
 
-hangman("ct")
+hangman("c")
